@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FALANDO SOBRE TAGS DO HTML</title>
+</head> 
+<h1><u> FALANDO SOBRE TAGS HTML </u> </h1>
+<body>
+
+    <h3> As TAGS têm como principal função, mostrar à web que está sendo criado um código. Em seguida, vamos destrinchar mais o assunto. 
+    </h3> </body>
+    
+    <h2>  <u> TAG < title > </u> </h2>
+
+   <body> O title tag define o título do documento. O título deve ser somente em texto, o qual é mostrado na barra de título do navegador ou na aba da página. A  title tag é obrigatória em todos os documentos HTML.</body> <h4>  </h4>
+
+   <h2> <u> TAG < h > </u></h2>
+
+   <body>  A tag < h > , significa Head (cabeça), e esta subdividida em 06 linhas, onde sua principal função é criar títulos, que poderão ser maiúsculo ou minúsculo, a depender da escolha da numeração da tag, o texto poderá se tornar um subtítulo.</body> 
+
+    <h2> <u> TAG < p > </u> </h2>
+
+    <body> 
+
+    A função < p >, traz o intuito de criar paragráfos, onde  poderão ou não serem em negrito. Durante a criação desses textos, existe a possibilidade de deixá-los em negrito ou sublinhados. Para deixar em negrito é necessário utilizar o comando  <i>strong</i> e coloca-lo na frente da palavra ou frase que desejar. Já em relação ao sublinhado, usa a tag <i>  < u >  </i>. Quando queremos fazer uma citação de outro local utilizaoms a <i> < blockquote cite= " " > </blockquote></i>, que nos levará para o site de destino o clicarmos no link, exemplo: <blockquote cite= http://www.worldwildlife.org/who/index.html>.  
+
+    Quando queremos dar enfâse marcando cores no texto, utilizamos a tag < <i>mark</i>  >, a qual deixará o texto  <mark> um marca texto colorido </mark>. </body>
